@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TELECINE ACTION">
+    <display-name lang="pt">Telecine Action</display-name>
+    <url>http://www.telecineplay.com.br</url>
+  </channel>
+  <channel id="TELECINE TOUCH">
+    <display-name lang="pt">Telecine Touch</display-name>
+    <url>http://www.telecineplay.com.br</url>
+  </channel>
+  <channel id="TELECINE FUN">
+    <display-name lang="pt">Telecine Fun</display-name>
+    <url>http://www.telecineplay.com.br</url>
+  </channel>
+  <channel id="TELECINE PIPOCA">
+    <display-name lang="pt">Telecine Pipoca</display-name>
+    <url>http://www.telecineplay.com.br</url>
+  </channel>
+  <channel id="TELECINE CULT">
+    <display-name lang="pt">Telecine Cult</display-name>
+    <url>http://www.telecineplay.com.br</url>
+  </channel>
+  <channel id="TELECINE PREMIUM">
+    <display-name lang="pt">Telecine Premium</display-name>
+    <url>http://www.telecineplay.com.br</url>
+  </channel>
+  <channel id="TELECINE ACTION HD">
+    <display-name lang="pt">Telecine Action</display-name>
+    <url>http://www.telecineplay.com.br</url>
+  </channel>
+  <channel id="TELECINE TOUCH HD">
+    <display-name lang="pt">Telecine Touch</display-name>
+    <url>http://www.telecineplay.com.br</url>
+  </channel>
+  <channel id="TELECINE FUN HD">
+    <display-name lang="pt">Telecine Fun</display-name>
+    <url>http://www.telecineplay.com.br</url>
+  </channel>
+  <channel id="TELECINE PIPOCA HD">
+    <display-name lang="pt">Telecine Pipoca</display-name>
+    <url>http://www.telecineplay.com.br</url>
+  </channel>
+  <channel id="TELECINE CULT HD">
+    <display-name lang="pt">Telecine Cult</display-name>
+    <url>http://www.telecineplay.com.br</url>
+  </channel>
+  <channel id="HBO HD">
+    <display-name lang="pt">HBO</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="HBO 2 SD">
+    <display-name lang="pt">HBO 2 SD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="HBO+ HD">
+    <display-name lang="pt">HBO+ HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="HBO+ SD">
+    <display-name lang="pt">HBO+ SD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="HBO Family HD">
+    <display-name lang="pt">HBO Family</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="HBO Family SD">
+    <display-name lang="pt">HBO Family SD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="HBO SD">
+    <display-name lang="pt">HBO SD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="HBO MUNDI">
+    <display-name lang="pt">HBO MUNDI</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="HBO POP">
+    <display-name lang="pt">HBO Pop</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="HBO Signature HD">
+    <display-name lang="pt">HBO Signature HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="HBO Signature SD">
+    <display-name lang="pt">HBO Signature SD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="H2 SD">
+    <display-name lang="pt">H2 SD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="History CHANNEL">
+    <display-name lang="pt">HISTORY CHANNEL</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="pt">Animal Planet</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Discovery Channel SD">
+    <display-name lang="pt">Discovery Channel SD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Discovery Science SD">
+    <display-name lang="pt">Discovery Science SD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Discovery Theater SD">
+    <display-name lang="pt">Discovery Theater SD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Discovery World SD">
+    <display-name lang="pt">Discovery World SD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="DISCOVERY HGTV">
+    <display-name lang="pt">DISCOVERY HGTV</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="NatGeo SD">
+    <display-name lang="pt">NatGeo SD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="NatGeo Wild SD">
+    <display-name lang="pt">NatGeo Wild SD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="SPORTV">
+    <display-name lang="pt">Sportv</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="SPORTV 2">
+    <display-name lang="pt">Sportv 2 HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="SPORTV 2 HD">
+    <display-name lang="pt">Sportv 2 HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="SPORTV 3">
+    <display-name lang="pt">Sportv 3</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="SPORTV 3 HD">
+    <display-name lang="pt">SporTV 3 HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="SPORTV HD">
+    <display-name lang="pt">Sportv HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="FOX SPORTS 2">
+    <display-name lang="pt">FOX SPORTS 2</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="FOX Sports 2 SD">
+    <display-name lang="pt">FOX Sports 2 SD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="FOX Sports SD">
+    <display-name lang="pt">Fox sports sd</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="TCM SD">
+    <display-name lang="pt">TCM SD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="TNT SD">
+    <display-name lang="pt">TNT SD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="VIVA SD">
+    <display-name lang="pt">VIVA SD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Viva HD">
+    <display-name lang="pt">Viva HD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="AXN SD">
+    <display-name lang="pt">AXN SD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="Cinemax SD">
+    <display-name lang="pt">Cinemax SD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="FOX SD">
+    <display-name lang="pt">FOX SD</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="pt">FX</display-name>
+    <url>http://www.vivo.com.br</url>
+  </channel>
+</tv>
